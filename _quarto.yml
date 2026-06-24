@@ -7,15 +7,15 @@ book:
   date: "6/16/2026"
   chapters:
      - index.qmd
-     - intro details.qmd
-     - Week 1.qmd
-     - Week 2.qmd
-     - Week 3.qmd
-     - Week 4.qmd
-     - Week 5.qmd
-     - Week 6.qmd
-     - week 7.qmd
-     - Week 8.qmd
+     - "intro details.qmd"
+     - "Week 1.qmd"
+     - "Week 2.qmd"
+     - "Week 3.qmd"
+     - "Week 4.qmd"
+     - "Week 5.qmd"
+     - "Week 6.qmd"
+     - "week 7.qmd"
+     - "Week 8.qmd"
      - References.qmd
 
 bibliography: references.bib
