@@ -1,0 +1,3 @@
+**\# Week 6**
+
+An increasing variety of remotely sensed data is becoming available, from very high spatial resolution images such as QuickBird and WorldView to very coarse spatialresolution data obtained from the MODerate resolution Imaging Spectroradiometer 346luetal.(MODIS) and the Advanced Very High Resolution Radiometer (AVHRR). Spectralresolution ranges from the limited number of multispectral bands of the LandsatThematic Mapper (TM) to the over 200 bands of the hyperspectral Hyperion. Passiveoptical sensors such as Landsat and SPOT can be contrasted with active sensorssuch as the Advanced Land Observation Satellite (ALOS) Phased Array type L-bandSynthetic Aperture Radar (PALSAR) and RADARSAT.

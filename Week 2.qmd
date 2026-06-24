@@ -1,0 +1,11 @@
+# **\# Week 2 - See Presentation link URL (check)**
+
+Portfolio, a short xaringan (or Quarto) presentation on sensor
+
+RS_Week2/FINAL_FILE_RUN_files at master · nolanj25/RS_Week2
+
+Image in QGIS - with full 3 band colour and with Geo-referenced background map
+
+![](images/clipboard-2894018029.png)
+
+![](images/clipboard-1080931233.png)

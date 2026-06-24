@@ -1,0 +1,5 @@
+***\# 7 - classification 2***
+
+-   Example of running GEE code with land sat imagery
+
+![](images/clipboard-654671235.png)

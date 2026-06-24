@@ -1,0 +1,27 @@
+**\# 4 - Policy (individual case study city)**
+
+Heat Prevention Case Study (India)
+
+I initially planned to download imagery for London because I’m familiar with the area, ( see image) but I decided instead to explore a different region in IndiaA case study on heat‑prevention planning in India, which focused on informal settlements (slums).The study examined a 2010 heatwave that showed increased mortality on the hottest days. However, the report also noted that other factors—such as poor air quality, dengue fever, and general illness—may have contributed to the rise in deaths, not only heat stroke or heat exhaustion. The study did not mention satellite data; it relied mainly on weather‑event monitoring and air‑quality information
+
+This raised an interesting question: could previous satellite imagery, weather data, and air‑quality sensor data be used to support early‑warning systems for a city of seven million people
+
+The city now provides five‑day heat forecasts, and the media reports these warnings.
+
+The Ahmedabad Municipal Corporation pioneered an early‑warning system for extreme heat.
+
+**Additional Considerations**
+
+Air‑pollution monitoring should be integrated with heat‑risk analysis. See later weeks SAR reference.
+
+Spatial mapping of deaths, combined with town‑planning data and the distribution of slums, could reveal patterns of vulnerability.
+
+This could help identify neighbourhoods most at risk and improve targeted interventions.
+
+One quarter of the slums are migrant population and threat with exposure to the heat eg police and rikshaw drivers are susceptible .
+
+The temp range is not large for only 5 degrees ie 40 the 45 degree c. this would apper to be too small. An earlier warning and a wider temperature range, especially with those in countries not used to heat.
+
+Artis & Carnahan (1982), recently summarised by Guha et al. 2018 and and Avdan and Jovanovska (2016)
+
+Heat affects health through dehydration, acute by heat exhaustion and heat stroke, and exacerbations of chronic cardiovascular and respiratory diseases. poor air quality, driven by industrial expansion can worsen during extreme heat and lead to respiratory and other illnesses. Heat is also known to fuel outbreaks of vector-borne diseases such as malaria, chikungunya and dengue fever, all prevalent in Ahmedabad \[[6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4024996/#B6-ijerph-11-03473)\], and to impact the incidence of diarrheal disease, especially among children.

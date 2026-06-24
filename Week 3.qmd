@@ -1,0 +1,109 @@
+***\# Week 3*** - corrections - notes on *Georeferencing and Regression*
+
+-   *Georeferencing involves aligning a scanned image with an existing image or a coordinate reference system.*
+
+-   *To assign a coordinate reference system, Ground Control Points (GCPs) are collected.*
+
+-   *A gold‑standard map is compared with the scanned image, and a regression plot is created. Many points are needed — the more, the better. See ther Rabaul volcano example sourcing image and quality mapping*
+
+-   *Several regression methods (around 5–6) can be used for georeferencing. QGIS was used to add the layers*
+
+-   *PIFs (Pseudo‑Invariant Features) help maintain consistency across images. like roads rivers ect - roads were used used in the Rabaul volcanoe example as well at the old Air port runway.*
+
+-   *Resampling methods include nearest neighbour and centroid‑based approaches. ( this has not been applied yet)*
+
+-   *Non‑matching grids must be matched before analysis, and images need to be the same size. (The over lapping areas match with different size images)*
+
+-   *Top‑of‑Atmosphere* TOA spectral radiance is light reflected off the Earth as seen from the satellite measure in radiance units.
+
+***Atmospheric Data and Corrections***
+
+-   *Pixel “bleeding” occurs when light from the Earth’s surface spreads into neighbouring pixels, especially across images taken over time.*
+
+-   *Dark Object Subtraction is one method of atmospheric correction, though not ideal.*
+
+-   *PIF‑based correction uses a reference image. (See above map)*
+
+-   *Corrections are applied per band: the reference pixel value is applied to all corresponding pixels in the target image.*
+
+-   *Regression is applied on a per‑band basis.*
+
+-   *Care is needed when interpreting charts, as y‑values may differ.*
+
+***Absolute Atmospheric Correction***
+
+-   *Models the atmosphere directly and applies the model to the image.*
+
+-   *Introduces uncertainty and bias; requires weather data.*
+
+-   *Different biomes require different atmospheric models.*
+
+-   *Tools include free and paid software such as FLASH and ENVI.*
+
+-   *Empirical Line Correction uses in‑situ reflectance measurements.*
+
+-   *Atmospheric path radiance and attenuation are both accounted for in the correction equation.*
+
+-   *Analysis‑ready data is often used to avoid these complexities.*
+
+***Topographic Correction***
+
+-   *Solar zenith describes the sun’s height above the horizon.*
+
+-   *Nadir view is directly downward; off‑nadir angles (e.g., 25°) affect illumination*
+
+-   *The MTL file contains metadata such as tile angle, sun angle, and acquisition date.*
+
+-   *Solar azimuth describes the sun’s horizontal position (0° = north, 90° = east).*
+
+-   *Topographic correction accounts for terrain elevation and slope.*
+
+-   *Atmospheric correction is applied first, then topographic correction*
+
+***Radiometric Correction***
+
+-   *Digital Numbers (DNs) are efficient for storage and processing.*
+
+-   *DN represents the amount of light detected by the sensor.*
+
+-   *Conversion uses bias and gain values (e.g., from the Landsat handbook).*
+
+-   *Spectral radiance → reflectance.*
+
+-   *Radiance is influenced by the light source; reflectance accounts for the light source and represents the surface properties.*
+
+-   *Top‑of‑Atmosphere (TOA) reflectance is commonly used.*
+
+-   *Apparent reflectance differs from pure hemispherical reflectance*
+
+***Data Products and Processing***
+
+-   *Landsat products are provided at different collection levels.*
+
+-   *“Load surface collection” refers to using surface reflectance products.*
+
+-   *Image mosaicking involves joining tiles using feathering or blending.*
+
+-   *Collections (e.g., in Google Earth Engine) allow stacking images and taking median values over a time period (e.g., 3 months).*
+
+***Enhancement and Analysis***
+
+-   *Enhancements include contrast stretching and other pixel‑based adjustments*
+
+-   *Ratios and filters (e.g., NDVI, red‑edge indices) extract spectral information.*
+
+-   *PCA (Principal Component Analysis) reduces dimensionality (e.g., 7 bands → 2 components) while retaining variance*
+
+-   *PCA helps identify change, such as new buildings.*
+
+-   *Texture analysis uses second‑order statistics (co‑occurrence matrices).*
+
+-   *Multiple texture measures exist (around 15), including mean, variance, and directional change.*
+
+-   *Texture analysis is computationally heavy, especially over large areas*
+
+***Correction and Interpretation***
+
+-   *Images contain errors; corrections help ensure values (e.g., reflectance or DN) are meaningful*
+
+-   *When joining datasets, features may need to be extracted using ratios or other transformations.*

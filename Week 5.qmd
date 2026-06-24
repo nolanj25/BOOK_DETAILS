@@ -1,0 +1,23 @@
+***\# 5 - Google Earth Engine***
+
+*Add GEE Pratical codes and Images*
+
+Loaded code to displayBoundaries and
+
+Loaded Images
+
+Centering mapinng with coodinates and pre defined features
+
+GGE
+
+London Borough of Tower Hamlets, United Kingdom Feb 14, 2026 Satellite Imagery
+
+Example of own area data Upload (GEE code)
+
+**A good reference used with code**
+
+Running the book’s example code in GEE works well and allows other case studies to be explored see image below. This will take time but will be valuable for deeper learning.
+
+(Cardille,Crowley, Saah, Clinton (Editors)
+
+![](images/clipboard-209908950.png)
