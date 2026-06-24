@@ -1,0 +1,25 @@
+**\# References**
+
+*Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications* Jeffrey A. Cardille, Morgan A. Crowley, David Saah, Nicholas E. Clinton (Editors)
+
+***Other Image providers exist See link***
+
+Lu, D., Li, G., Moran, E., Dutra, L., & Batistella, M. (2011). A Comparison of Multisensor Integration Methods for Land Cover Classification in the Brazilian Amazon. *GIScience & Remote Sensing*, *48*(3), 345–370. <https://doi.org/10.2747/1548-1603.48.3.345>
+
+Zander Venter and Sourangsu Chowdhury <https://eos.com/landviewer/?lat=51.83581&lng=0.47917&z=8&datasets=5&id=S2C_tile_20260214_30UXC_0&b=Red,Green,Blue&anti=true&processing=L2A>
+
+**Dongying Li, Galen D Newman, Bev Wilson, Yue Zhang, Robert D Brown**
+
+[[**Modeling the relationships between historical redlining, urban heat, and heat-related emergency department visits: An examination of 11 Texas cities**]{.underline}](https://journals.sagepub.com/doi/abs/10.1177/23998083211039854 "https://journals.sagepub.com/doi/abs/10.1177/23998083211039854")
+
+(Asner, [**1998**](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12942#mee312942-bib-0002 "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12942#mee312942-bib-0002"); Tempfli, Kerle, in
+
+Schulte to Bühne H, Pettorelli N. Better together: Integrating and fusing multispectral and radar satellite imagery to inform biodiversity monitoring, ecological research and conservation science. Methods Ecol Evol. 2018;9:849–865. <https://doi.org/10.1111/2041-210X.12942>
+
+Huurneman, & Janssen, [**2009**](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12942#mee312942-bib-0104 "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12942#mee312942-bib-0104")), 
+
+Schulte to Bühne H, Pettorelli N. Better together: Integrating and fusing multispectral and radar satellite imagery to inform biodiversity monitoring, ecological research and conservation science. Methods Ecol Evol. 2018;9:849–865. <https://doi.org/10.1111/2041-210X.12942>
+
+Zander Venter and Sourangsu Chowdhury
+
+<https://www.eefabook.org/go-to-the-book.html>

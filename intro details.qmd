@@ -1,0 +1,3 @@
+# Background
+
+I have experience working with commercial businesses and in local and regional government, identifying sites for inward investment and applying GIS techniques to optimise operations and realise efficiencies. The skills I will acquire throughout the course will directly apply to the work I carry out and will improve the efficiency of data handling and access. This will increase the accessibility of management information across the organisation. This module will enhance existing methods of information sharing and demonstrate how new data can be created from existing imagery that is available but not currently analysed spatially, either because it is in the wrong format or inaccessible to those who could make best use of it.
